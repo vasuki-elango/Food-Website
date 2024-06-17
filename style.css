@@ -332,12 +332,15 @@ button:hover,
         margin: 0.2rem;
     }
     .navbar li a{
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
     .about-bg img{
         width: 300px;
         height: 50vh;
         object-fit: cover;
+    }
+    .btn {
+        font-size: 10px;
     }
     .menu-list {
         grid-template-columns: auto auto ;
